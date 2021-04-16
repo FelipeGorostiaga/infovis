@@ -1,0 +1,49 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(242, 245, 247);
+}
+
+.title {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 70px;
+}
+
+.quote {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+.author {
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.subtitle {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+.table {
+  display: table;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.list-item {
+  display: inline;
+  padding-right: 120px;
+}
+
+.round-img {
+  border-radius: 50%;
+}
