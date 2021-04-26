@@ -10,10 +10,12 @@ body {
   font-size: 70px;
 }
 /*     margin-left: 100px;
-    margin-right: 100px; */
+    margin-right: 100px; 
+    
+      width: 1400px;*/
 .quote {
-    width: 1400px;
-
+    width: 60%;
+    margin: 20% auto;
     text-align: center;
     margin-top: 150px;
     font-size: 30px;
