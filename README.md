@@ -2,4 +2,6 @@
 
 ### Trabajos Prácticos: Visualización de la Información 
 
-[Github Pages](https://FelipeGorostiaga.github.io/infovis/index.html)
+[TP Datos Personales](https://felipegorostiaga.github.io/infovis/personal-data/dashboard.html)
+
+[MOM](https://FelipeGorostiaga.github.io/infovis/index.html)
